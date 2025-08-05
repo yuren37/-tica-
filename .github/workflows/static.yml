@@ -1,0 +1,239 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ética - Álbum Digital</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2;
+      color: #333;
+    }
+
+    header {
+      background-color: #222;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    section {
+      max-width: 900px;
+      margin: 30px auto;
+      background-color: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      padding: 30px;
+    }
+
+    h2 {
+      color: #005574;
+    }
+
+    img {
+      max-width: 100%;
+      border-radius: 8px;
+      margin: 15px 0;
+    }
+
+    .subtitulo {
+      font-size: 20px;
+      margin-top: 20px;
+      color: #444;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>La Ética</h1>
+    <p>Explorando sus fundamentos y propósito</p>
+  </header>
+<nav style="background-color: #e0f0f7; padding: 20px; border-bottom: 1px solid #ccc;">
+  <h2 style="margin-top: 0;">Índice</h2>
+  <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
+    <li><a href="#etica">1. La Ética: Concepto, Objetivos e Importancia</a></li>
+    <li><a href="#historia-antigua">2. Historia de la Ética: Ética Antigua</a></li>
+    <li><a href="#etica-medieval">3. Historia de la Ética: Ética Medieval</a></li>
+    <li><a href="#etica-moderna">4. Historia de la Ética: Ética Moderna</a></li>
+    <li><a href="#etica-contemporanea">5. Historia de la Ética: Ética Contemporánea</a></li>
+  </ul>
+</nav>
+
+  <section id="etica">
+    <h2>Concepto de la Ética</h2>
+    <p>La ética es una rama de la filosofía que estudia el comportamiento humano en relación con lo que es moralmente correcto o incorrecto. Se ocupa de reflexionar sobre los valores, deberes y principios que deben guiar la conducta humana en sociedad.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/School_of_Athens_%28cropped%29.jpg/800px-School_of_Athens_%28cropped%29.jpg" alt="Filosofía clásica">
+
+    <h2 class="subtitulo">Objetivos de la Ética</h2>
+    <ul>
+      <li>Analizar críticamente las acciones humanas y sus consecuencias morales.</li>
+      <li>Establecer principios que orienten una convivencia justa y responsable.</li>
+      <li>Fomentar el desarrollo de la conciencia moral individual y colectiva.</li>
+    </ul>
+
+    <h2 class="subtitulo">Importancia de la Ética</h2>
+    <p>La ética es fundamental para la vida en sociedad, ya que permite construir relaciones basadas en el respeto, la justicia y la responsabilidad. Además, orienta nuestras decisiones y nos ayuda a actuar con coherencia y dignidad en distintos ámbitos: personal, profesional y social.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Balance_scale_of_justice.svg/800px-Balance_scale_of_justice.svg.png" alt="Justicia y valores éticos">
+  </section>
+<section id="historia-antigua">
+  <h2>Historia de la Ética: Ética Antigua</h2>
+  <p>La ética antigua surgió en la Grecia clásica y se extendió al mundo romano. Fue una época en la que la reflexión sobre la virtud, la felicidad y la vida buena era central para los filósofos.</p>
+
+  <!-- Ética Griega -->
+  <h3>Ética Griega</h3>
+  <p>La filosofía griega marcó el inicio de la ética como disciplina racional.</p>
+
+  <ul>
+    <li><strong>Sócrates:</strong> Consideraba que el conocimiento del bien lleva al buen actuar. Su método era el diálogo y la introspección moral.</li>
+    <li><strong>Platón:</strong> Enfatizó la existencia de un mundo ideal de valores, donde el Bien es la idea suprema.</li>
+    <li><strong>Aristóteles:</strong> Desarrolló una ética de la virtud, centrada en alcanzar la felicidad (eudaimonía) mediante hábitos virtuosos.</li>
+  </ul>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Socrates_Louvre.jpg/640px-Socrates_Louvre.jpg" alt="Socrates" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Plato_Pio-Clemetino_Inv305.jpg/640px-Plato_Pio-Clemetino_Inv305.jpg" alt="Platon" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aristotle_Altemps_Inv8575.jpg/640px-Aristotle_Altemps_Inv8575.jpg" alt="Aristoteles" />
+
+  <!-- Ética Helenística -->
+  <h3>Ética Helenística</h3>
+  <p>Después de Aristóteles, surgieron escuelas que ofrecían distintas formas de alcanzar la felicidad.</p>
+
+  <ul>
+    <li><strong>Escepticismo:</strong> Defendía la suspensión del juicio (epojé) como camino a la tranquilidad.</li>
+    <li><strong>Estoicismo:</strong> Promovía vivir de acuerdo con la razón y aceptar el destino con serenidad.</li>
+    <li><strong>Epicureísmo:</strong> Consideraba que el placer moderado y la ausencia de dolor llevaban a una vida feliz.</li>
+  </ul>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Epikouros_Louvre.jpg/640px-Epikouros_Louvre.jpg" alt="Epicuro" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zeno_of_Citium_pushkin.jpg/640px-Zeno_of_Citium_pushkin.jpg" alt="Zenón de Citio" />
+
+  <!-- Ética Romana -->
+  <h3>Ética Romana</h3>
+  <p>Inspirada por las corrientes griegas, la ética romana destacó valores como el deber, la razón y la dignidad.</p>
+
+  <ul>
+    <li><strong>Epicteto:</strong> Exesclavo y estoico. Enseñó que solo controlamos nuestras acciones y juicios, no el mundo exterior.</li>
+    <li><strong>Séneca:</strong> Abogó por una vida de virtud, autocontrol y compasión. Enfrentó la adversidad con sabiduría estoica.</li>
+    <li><strong>Cicerón:</strong> Integró el pensamiento estoico con el deber cívico romano, exaltando la justicia y la razón.</li>
+  </ul>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Seneque_Puschkin.jpg/640px-Seneque_Puschkin.jpg" alt="Séneca" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cicero_-_Musei_Capitolini_MC561.jpg/640px-Cicero_-_Musei_Capitolini_MC561.jpg" alt="Cicerón" />
+</section>
+<section id="etica-moderna">
+  <h2>Historia de la Ética: Ética Moderna</h2>
+  <p>La ética moderna surge entre los siglos XVII y XIX, marcada por el racionalismo, el auge de la ciencia, el individualismo y el cuestionamiento de la autoridad religiosa. Se enfoca en la autonomía moral, la razón práctica y la libertad individual.</p>
+
+  <!-- Características de la Ética Moderna -->
+  <h3>Características de la Ética Moderna</h3>
+  <ul>
+    <li>Énfasis en la razón como base del juicio moral.</li>
+    <li>Autonomía del individuo frente a la autoridad religiosa o política.</li>
+    <li>Búsqueda de principios universales y racionales para la conducta.</li>
+    <li>Cuestionamiento crítico de las normas establecidas.</li>
+  </ul>
+
+  <!-- Corrientes Éticas Modernas -->
+
+  <h3>Deontologismo</h3>
+  <p>Representado por Immanuel Kant, sostiene que el deber moral no depende de las consecuencias, sino de la intención y el cumplimiento de normas universales. La ética kantiana se basa en el imperativo categórico: "Obra solo según aquella máxima que puedas querer que se convierta en ley universal."</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Immanuel_Kant_%28portrait%29.jpg/640px-Immanuel_Kant_%28portrait%29.jpg" alt="Immanuel Kant">
+
+  <h3>Utilitarismo</h3>
+  <p>Promovido por Jeremy Bentham y John Stuart Mill. Sostiene que una acción es moralmente correcta si produce la mayor felicidad para el mayor número de personas. Evalúa las consecuencias y el bienestar colectivo.</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg/640px-Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg" alt="Jeremy Bentham">
+
+  <h3>Ética de la Virtud Moderna</h3>
+  <p>Retoma la tradición aristotélica, enfocándose en el carácter moral del agente más que en reglas o consecuencias. Plantea que la moral se cultiva a través de la práctica de virtudes como la honestidad, la templanza y la justicia.</p>
+
+  <h3>Existencialismo</h3>
+  <p>Corriente desarrollada por pensadores como Jean-Paul Sartre y Simone de Beauvoir. Defiende la libertad radical del individuo y la responsabilidad de crear sus propios valores en un mundo sin sentido preestablecido. "El hombre está condenado a ser libre".</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sartre_1967_crop.jpg/640px-Sartre_1967_crop.jpg" alt="Jean-Paul Sartre" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Simone_de_Beauvoir2.jpg/640px-Simone_de_Beauvoir2.jpg" alt="Simone de Beauvoir" />
+
+  <!-- Legado -->
+  <h3>Consecuencias y Legado</h3>
+  <p>La ética moderna dejó un legado de autonomía moral, reflexión racional y preocupación por la justicia social. Sentó las bases del pensamiento ético contemporáneo, ampliando el horizonte de la libertad, los derechos humanos y la responsabilidad individual.</p>
+</section>
+<section id="etica-contemporanea">
+  <h2>Historia de la Ética: Ética Contemporánea</h2>
+  <p>La ética contemporánea se desarrolla desde el siglo XX hasta la actualidad. Está marcada por la diversidad de enfoques, la crítica a los sistemas éticos tradicionales y la atención a problemáticas sociales, culturales y ambientales del mundo moderno.</p>
+
+  <!-- Características -->
+  <h3>Características de la Ética Contemporánea</h3>
+  <ul>
+    <li>Pluralidad de corrientes éticas y filosóficas.</li>
+    <li>Énfasis en la justicia, la equidad y los derechos humanos.</li>
+    <li>Reflexión aplicada a problemas concretos: bioética, medio ambiente, género, tecnología.</li>
+    <li>Crítica a la razón universalista y defensa de enfoques situados y contextuales.</li>
+  </ul>
+
+  <!-- Desafíos actuales -->
+
+  <h3>Desafíos actuales en la Ética Contemporánea</h3>
+
+  <h4>Ética Ambiental</h4>
+  <p>Reflexiona sobre la relación del ser humano con la naturaleza. Promueve el respeto por los ecosistemas, el desarrollo sostenible y la responsabilidad frente al cambio climático.</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Green_leaves_icon.svg/640px-Green_leaves_icon.svg.png" alt="Ética Ambiental" />
+
+  <h4>Ética Feminista</h4>
+  <p>Critica las estructuras patriarcales del pensamiento moral. Lucha por la igualdad de género, la inclusión y la valoración de las experiencias femeninas en la ética.</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Feminism_symbol.svg/640px-Feminism_symbol.svg.png" alt="Ética Feminista" />
+
+  <h4>Ética del Cuidado</h4>
+  <p>Enfatiza la importancia de las relaciones, la empatía y la responsabilidad afectiva. Sostiene que la moralidad surge en contextos de cuidado mutuo, especialmente en la familia y la comunidad.</p>
+
+  <h4>Ética de la Justicia</h4>
+  <p>Busca la equidad en la distribución de bienes y derechos. Inspirada por filósofos como John Rawls, plantea principios para una sociedad justa y democrática.</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Justice_balance_icon.svg/640px-Justice_balance_icon.svg.png" alt="Ética de la Justicia" />
+
+  <h4>Ética de la Virtud Moderna</h4>
+  <p>Reinterpreta las virtudes clásicas en contextos actuales. Se enfoca en formar personas éticas a través de hábitos como la solidaridad, la resiliencia y la responsabilidad social.</p>
+
+  <h3>Reflexión Final</h3>
+  <p>La ética contemporánea no busca una única respuesta, sino ofrecer herramientas críticas para enfrentar los dilemas del mundo actual, promoviendo una humanidad más consciente, justa y sostenible.</p>
+</section>
+
+</body>
+</html><style>{ margin: 0; padding: 0; box-sizing: border-box; }
+
+
+body { font-family: 'Roboto', sans-serif; background: linear-gradient(to bottom, #f2f6fa, #e3ecf4); color: #2c3e50; line-height: 1.7; padding-bottom: 60px; }
+
+header { background: linear-gradient(90deg, #00264d, #004080); color: white; padding: 60px 20px; text-align: center; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); border-bottom: 5px solid #006699; }
+
+header h1 { font-size: 3em; margin-bottom: 15px; }
+
+header p { font-size: 1.3em; font-weight: 300; }
+
+nav { background-color: #d4e6f1; padding: 40px 20px; text-align: center; }
+
+nav h2 { margin-bottom: 25px; font-size: 1.8em; color: #002f5d; }
+
+nav ul { list-style: none; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; }
+
+nav li a { text-decoration: none; color: #005574; background-color: #ffffff; border: 2px solid #005574; padding: 12px 25px; border-radius: 30px; transition: all 0.3s ease; display: inline-block; max-width: 300px; white-space: normal; word-wrap: break-word; text-align: center; font-weight: bold; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+
+nav li a:hover { background-color: #005574; color: white; transform: scale(1.05); }
+
+section { background-color: #ffffff; margin: 50px auto; padding: 50px; max-width: 1000px; border-radius: 15px; box-shadow: 0 6px 30px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease; }
+
+section:hover { transform: translateY(-5px); }
+
+section h2 { color: #003366; font-size: 2.2em; margin-bottom: 25px; border-bottom: 2px solid #ccd6e0; padding-bottom: 12px; }
+
+h3, h4 { color: #005574; margin-top: 30px; font-weight: bold; }
+
+ul { padding-left: 25px; }
+
+li { margin-bottom: 12px; line-height: 1.6; }
+
+img { max-width: 100%; display: block; margin: 25px auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.1); }
+
+@media (max-width: 768px) { nav ul { flex-direction: column; gap: 15px; }
+
+section { padding: 30px; margin: 30px 10px; }
+
+header h1 { font-size: 2em; } }
+
+</style>
